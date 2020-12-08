@@ -1,14 +1,19 @@
 .docskit--desc {
-  margin-bottom: $spacing-l;
+  //margin-bottom: $spacing-l;
 
   p {
     grid-column: 1 / 1;
+
+    &:last-child {
+      margin-bottom: $spacing-s;
+    }
   }
 
   &.is-docskit-desc-counter {
     display: grid;
     grid-column: 1 / 3;
-    grid-gap: $spacing-l $spacing-m;
+    //grid-gap: $spacing-l $spacing-m;
+    grid-gap: 0 $spacing-m;
     // Grid template math to achieve min size:
     // max width ($max-line-length * 2)
     // less grid-gap (2 x $spacing-m)
