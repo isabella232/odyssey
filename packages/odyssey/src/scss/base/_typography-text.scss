@@ -53,7 +53,7 @@ blockquote {
 
 p {
   max-width: $max-line-length;
-  margin-bottom: $spacing-s;
+  margin-bottom: 2em;
   font-size: $size-body-sentence;
 
   details & {

@@ -18,34 +18,40 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 0 0 $spacing-xs 0;
+  margin: 0 0 1.125em;
   color: $text-heading;
   font-weight: 600;
   line-height: $title-line-height;
 }
 
+h4,
+h5,
+h6 {
+  margin-bottom: 2em;
+}
+
 h1 {
-  font-size: ms(5);
+  font-size: $size-title-1;
 }
 
 h2 {
-  font-size: ms(4);
+  font-size: $size-title-2;
 }
 
 h3 {
-  font-size: ms(3);
+  font-size: $size-title-3;
 }
 
 h4 {
-  font-size: ms(2);
+  font-size: $size-title-4;
 }
 
 h5 {
-  font-size: ms(1);
+  font-size: $size-title-5;
 }
 
 h6 {
-  font-size: $base-font-size;
+  font-size: $size-title-6;
 }
 
 h5,

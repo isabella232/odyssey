@@ -1,12 +1,8 @@
 .docskit--desc {
-  //margin-bottom: $spacing-l;
+  margin-bottom: 2em;
 
   p {
     grid-column: 1 / 1;
-
-    &:last-child {
-      margin-bottom: $spacing-s;
-    }
   }
 
   &.is-docskit-desc-counter {
