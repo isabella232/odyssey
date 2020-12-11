@@ -2,7 +2,7 @@
 template: plain
 id: base-type
 title: Type Test
-headline: Type Test - 1.1942 w/ 1.7142857 LH, 1.3 Heading 1-4 LH
+headline: Type Test - 1.2079 w/ 1.7142857 LH, 1.3 Heading 1-4 LH
 lead:
 description:
 ---
