@@ -2,10 +2,18 @@
 template: plain
 id: base-type
 title: Type Test
-headline: Type Test - 1.2079 w/ 1.7142857 LH, 1.3 Heading 1-4 LH
+headline: Projoesal
 lead:
 description:
 ---
+
+This is our current proposal. It features a **14px** base font-size with a scale ratio of **1.1942**. This targets a **34px** `h1`. Our base line-height is locked at **1.7142857** in order to generate the spacing units desired by Product Design. Line height for large titles (`h1` through `h3`) is set to **1.3**.
+
+Available sizes can be seen <a href="/base/typography/">here</a>.
+
+Available spacing units (unchanged) can be seen <a href="/base/tokens/">here</a>.
+
+<hr>
 
 <h1>This is a 1st level heading</h1>
 <p>Vangelis kindling the energy hidden in matter tesseract star stuff harvesting star light preserve and cherish that pale blue dot colonies. Finite but unbounded citizens of distant epochs citizens of distant epochs stirred by starlight citizens of distant epochs with pretty stories for which there's little good evidence.</p>
