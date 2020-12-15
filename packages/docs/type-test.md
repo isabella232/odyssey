@@ -2,12 +2,14 @@
 template: plain
 id: base-type
 title: Type Test
-headline: Projoesal
+headline: Proposdahl
 lead:
 description:
 ---
 
-This is our current proposal. It features a **14px** base font-size with a scale ratio of **1.1942**. This targets a **34px** `h1`. Our base line-height is locked at **1.7142857** in order to generate the spacing units desired by Product Design. Line height for large titles (`h1` through `h3`) is set to **1.3**.
+This is an exploration based on feedback from Alex. It features a **14px** base font-size with a scale ratio of **1.1942**. This targets a **34px** `h1`. Our base line-height is locked at **1.7142857** in order to generate the spacing units desired by Product Design. Line height for large titles (`h1` through `h3`) is set to **1.3**.
+
+In this example, all headings also have a `margin-bottom` of **0.6em**. This ensures that the highest level heading (`h1`) has an optical margin equal to the paragraph margin (**1.5em / 21px**), but that no heading will have more distance from it's children than the preceeding content.
 
 Available sizes can be seen <a href="/base/typography/">here</a>.
 
