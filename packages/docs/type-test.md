@@ -180,4 +180,6 @@ $size-body-caption: ms(-1);
 
 <pre>White dwarf explorations culture Sea of Tranquility inconspicuous motes of rock and gas bits of moving fluff. As a patch of light cosmos trillion rich in mystery ship of the imagination Jean-François Champollion.</pre>
 
+<p><pre>This is the same &lt;pre&gt; in a &lt;p&gt; for testing margin collapse and max-widths. White dwarf explorations culture Sea of Tranquility inconspicuous motes of rock and gas bits of moving fluff. As a patch of light cosmos trillion rich in mystery ship of the imagination Jean-François Champollion.</pre></p>
+
 <p>Vastness is bearable only <s>through</s> love tingling of the spine hydrogen atoms gathered by <strong>gravity</strong> Orion's sword the only <sub>home</sub> we've <sup>ever</sup> known. Something incredible is waiting to be known the <var>ash</var> of stellar alchemy the sky calls to us the <abbr>sky</abbr> calls to us courage of our questions the only home we've ever known? </p>
