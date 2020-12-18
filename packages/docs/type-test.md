@@ -243,4 +243,35 @@ $size-body-caption: ms(-1);
 <h1>This is the 1st heading with block</h1>
 
 <form class="ods-form">
+  <p>This is just some copy.</p>
+</form>
+
+<h2>This is the 2nd heading with block</h2>
+
+<form class="ods-form">
+  <p>This is just some copy.</p>
+</form>
+
+<h3>This is the 3rd heading with block</h3>
+
+<form class="ods-form">
+  <p>This is just some copy.</p>
+</form>
+
+<h4>This is the 4th heading with block</h4>
+
+<form class="ods-form">
+  <p>This is just some copy.</p>
+</form>
+
+<h5>This is the 5th heading with block</h5>
+
+<form class="ods-form">
+  <p>This is just some copy.</p>
+</form>
+
+<h6>This is the 6th heading with block</h6>
+
+<form class="ods-form">
+  <p>This is just some copy.</p>
 </form>
