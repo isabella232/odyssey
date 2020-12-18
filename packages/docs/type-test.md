@@ -237,3 +237,46 @@ $size-body-caption: ms(-1);
 <p>White dwarf explorations culture Sea of Tranquility inconspicuous motes of rock and gas bits of moving fluff. As a patch of light cosmos trillion rich in mystery ship of the imagination Jean-François Champollion.</p>
 
 <p>Vastness is bearable only through love tingling of the spine hydrogen atoms gathered by gravity Orion's sword the only home we've ever known. Something incredible is waiting to be known the ash of stellar alchemy the sky calls to us the sky calls to us courage of our questions the only home we've ever known? </p>
+
+<hr>
+
+<h1>This is the 1st heading with block</h1>
+
+<form class="ods-form">
+  <figure class="ods-table--figure">
+    <figcaption class="ods-table--figcaption">
+      Big and small planets
+    </figcaption>
+    <table class="ods-table">
+      <caption>Information about the largest and smallest planets.</caption>
+      <thead>
+        <tr>
+          <th scope="column">Planet</th>
+          <th scope="column" class="is-ods-table-num">Radius (km)</th>
+          <th scope="column">Type</th>
+          <th scope="column" class="is-ods-table-date">Perihelion date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row">Jupiter</th>
+          <td class="is-ods-table-num">69,911</td>
+          <td>Gas giant</td>
+          <td class="is-ods-table-date">January 21, 2023</td>
+        </tr>
+        <tr>
+          <th scope="row">Earth</th>
+          <td class="is-ods-table-num">6,371</td>
+          <td>Terrestrial</td>
+          <td class="is-ods-table-date">January 2, 2021</td>
+        </tr>
+        <tr>
+          <th scope="row">Mercury</th>
+          <td class="is-ods-table-num">1,737</td>
+          <td>Terrestrial</td>
+          <td class="is-ods-table-date">&ndash;</td>
+        </tr>
+      </tbody>
+    </table>
+  </figure>
+</form>
