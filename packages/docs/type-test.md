@@ -244,6 +244,6 @@ $size-body-caption: ms(-1);
 
 <div class="ods-form">
 
-  <p>This is just some copy.</p>
+This is just some copy.
 
 </div>
