@@ -186,6 +186,63 @@ $size-body-caption: ms(-1);
 
 <hr>
 
+<h1>This is the 1st heading with block</h1>
+
+<div class="ods-form">This is just some copy.</div>
+
+<h2>This is the 2nd heading with block</h2>
+
+<div class="ods-form">
+  <fieldset class="ods-fieldset">
+    <input class="ods-checkbox" type="checkbox" name="example-1" id="example-1" value="terms-accepted" checked required>
+    <label class="ods-checkbox--label" for="example-1">Inline label</label>
+  </fieldset>
+</div>
+
+<h3>This is the 3rd heading with block</h3>
+
+<div class="ods-form">
+  <dl class="ods-status">
+    <dt class="ods-status--label">
+      Status label
+    </dt>
+    <dd class="ods-status--value">
+      Neutral descriptor
+    </dd>
+  </dl>
+</div>
+
+<h4>This is the 4th heading with block</h4>
+
+<div class="ods-form">
+  <fieldset class="ods-fieldset">
+    <div class="ods-fieldset--attached">
+      <input type="search" name="example-6" id="example-6" autocomplete="search" spellcheck="false" aria-labelledby="example-6" required="required" class="ods-text-input">
+      <button id="example-6" class="ods-button">Button label</button>
+    </div>
+  </fieldset>
+</div>
+
+<h5>This is the 5th heading with block</h5>
+
+<div class="ods-form">
+  <fieldset class="ods-fieldset">
+    <legend class="ods-input-legend">Field label</legend>
+    <input class="ods-radio" type="radio" name="group-name" id="input-0" value="value-0" required checked>
+    <label class="ods-radio--label" for="input-0">Label 1</label>
+    <input class="ods-radio" type="radio" name="group-name" id="input-1" value="value-1" required>
+    <label class="ods-radio--label" for="input-1">Label 2</label>
+    <input class="ods-radio" type="radio" name="group-name" id="input-2" value="value-2" required>
+    <label class="ods-radio--label" for="input-2">Label 3</label>
+  </fieldset>
+</div>
+
+<h6>This is the 6th heading with block</h6>
+
+<div class="ods-form">This is just some copy.</div>
+
+<hr>
+
 <h1>This is a 1st level heading w images</h1>
 
 <p><img src="https://www.fillmurray.com/500/300"></p>
@@ -237,9 +294,3 @@ $size-body-caption: ms(-1);
 <p>White dwarf explorations culture Sea of Tranquility inconspicuous motes of rock and gas bits of moving fluff. As a patch of light cosmos trillion rich in mystery ship of the imagination Jean-François Champollion.</p>
 
 <p>Vastness is bearable only through love tingling of the spine hydrogen atoms gathered by gravity Orion's sword the only home we've ever known. Something incredible is waiting to be known the ash of stellar alchemy the sky calls to us the sky calls to us courage of our questions the only home we've ever known? </p>
-
-<hr>
-
-<h1>This is the 1st heading with block</h1>
-
-<div class="ods-form">This is just some copy.</div>
