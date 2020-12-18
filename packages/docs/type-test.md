@@ -243,40 +243,4 @@ $size-body-caption: ms(-1);
 <h1>This is the 1st heading with block</h1>
 
 <form class="ods-form">
-  <figure class="ods-table--figure">
-    <figcaption class="ods-table--figcaption">
-      Big and small planets
-    </figcaption>
-    <table class="ods-table">
-      <caption>Information about the largest and smallest planets.</caption>
-      <thead>
-        <tr>
-          <th scope="column">Planet</th>
-          <th scope="column" class="is-ods-table-num">Radius (km)</th>
-          <th scope="column">Type</th>
-          <th scope="column" class="is-ods-table-date">Perihelion date</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <th scope="row">Jupiter</th>
-          <td class="is-ods-table-num">69,911</td>
-          <td>Gas giant</td>
-          <td class="is-ods-table-date">January 21, 2023</td>
-        </tr>
-        <tr>
-          <th scope="row">Earth</th>
-          <td class="is-ods-table-num">6,371</td>
-          <td>Terrestrial</td>
-          <td class="is-ods-table-date">January 2, 2021</td>
-        </tr>
-        <tr>
-          <th scope="row">Mercury</th>
-          <td class="is-ods-table-num">1,737</td>
-          <td>Terrestrial</td>
-          <td class="is-ods-table-date">&ndash;</td>
-        </tr>
-      </tbody>
-    </table>
-  </figure>
 </form>
