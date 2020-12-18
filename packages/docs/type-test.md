@@ -183,3 +183,152 @@ $size-body-caption: ms(-1);
 <p><pre>This is the same &lt;pre&gt; in a &lt;p&gt; for testing margin collapse and max-widths. White dwarf explorations culture Sea of Tranquility inconspicuous motes of rock and gas bits of moving fluff. As a patch of light cosmos trillion rich in mystery ship of the imagination Jean-François Champollion.</pre></p>
 
 <p>Vastness is bearable only <s>through</s> love tingling of the spine hydrogen atoms gathered by <strong>gravity</strong> Orion's sword the only <sub>home</sub> we've <sup>ever</sup> known. Something incredible is waiting to be known the <var>ash</var> of stellar alchemy the sky calls to us the <abbr>sky</abbr> calls to us courage of our questions the only home we've ever known? </p>
+
+<hr>
+
+<h1>This is a 1st level heading</h1>
+
+<p><img src="https://www.fillmurray.com/500/300"></p>
+
+<p>Vangelis kindling the energy hidden in matter tesseract star stuff harvesting star light preserve and cherish that pale blue dot colonies. Finite but unbounded citizens of distant epochs citizens of distant epochs stirred by starlight citizens of distant epochs with pretty stories for which there's little good evidence.</p>
+
+<p>Rich in heavy atoms the ash of stellar alchemy network of wormholes the sky calls to us something incredible is waiting to be known are creatures of the cosmos. </p>
+
+<h2>This is 2nd level heading</h2>
+
+<p><img src="https://www.fillmurray.com/g/500/300"></p>
+
+<p>A billion trillion astonishment preserve and cherish that pale blue dot courage of our questions Hypatia from which we spring. Vanquish the impossible cosmic ocean hearts of the stars a very small stage in a vast cosmic arena vanquish the impossible invent the universe.</p>
+
+<p>A mote of dust suspended in a sunbeam the carbon in our apple pies dream of the mind's eye something incredible is waiting to be known vastness is bearable only through love globular star cluster? </p>
+
+<h3>This is 3rd level heading</h3>
+<p>Venture something incredible is waiting to be known extraplanetary rings of Uranus a mote of dust suspended in a sunbeam intelligent beings? Globular star cluster the carbon in our apple pies across the centuries the only home we've ever known colonies Apollonius of Perga.</p>
+
+<p><img src="https://placekitten.com/500/300"></p>
+
+<p>Network of wormholes a still more glorious dawn awaits network of wormholes extraordinary claims require extraordinary evidence the sky calls to us Euclid. Network of wormholes invent the universe another world with pretty stories for which there's little good evidence hydrogen atoms a very small stage in a vast cosmic arena. </p>
+
+<p><img src="https://placekitten.com/g/500/300"></p>
+
+<h4>This is 4th level heading</h4>
+
+<p><img src="http://placebeard.it/500/300"></p>
+
+<p>How far away dream of the mind's eye a still more glorious dawn awaits explorations Tunguska event encyclopaedia galactica. From which we spring citizens of distant epochs the carbon in our apple pies Euclid dispassionate extraterrestrial observer something incredible is waiting to be known.</p>
+
+<p><img src="http://placebeard.it/g/500/300"></p>
+
+<p>Stirred by starlight white dwarf something incredible is waiting to be known hundreds of thousands descended from astronomers bits of moving fluff. Hearts of the stars something incredible is waiting to be known white dwarf the ash of stellar alchemy inconspicuous motes of rock and gas citizens of distant epochs. </p>
+
+<h5>This is 5th level heading</h5>
+
+<p>Dream of the mind's eye another world with pretty stories for which there's little good evidence Apollonius of Perga something incredible is waiting to be known paroxysm of global death. The sky calls to us Flatland extraordinary claims require extraordinary evidence extraordinary claims require extraordinary evidence astonishment brain is the seed of intelligence.</p>
+
+<p><img src="https://www.placecage.com/500/300"></p>
+
+<p>Sea of Tranquility hearts of the stars extraordinary claims require extraordinary evidence network of wormholes dispassionate extraterrestrial observer hearts of the stars. </p>
+
+<h6>This is 6th level heading</h6>
+
+<p><img src="https://www.placecage.com/g/500/300"></p>
+
+<p>White dwarf explorations culture Sea of Tranquility inconspicuous motes of rock and gas bits of moving fluff. As a patch of light cosmos trillion rich in mystery ship of the imagination Jean-François Champollion.</p>
+
+<p>Vastness is bearable only through love tingling of the spine hydrogen atoms gathered by gravity Orion's sword the only home we've ever known. Something incredible is waiting to be known the ash of stellar alchemy the sky calls to us the sky calls to us courage of our questions the only home we've ever known? </p>
+
+<hr>
+
+<h1>This is the 1st heading with block</h1>
+
+<form class="ods-form">
+  <figure class="ods-table--figure">
+    <figcaption class="ods-table--figcaption">
+      Big and small planets
+    </figcaption>
+    <table class="ods-table">
+      <caption>Information about the largest and smallest planets.</caption>
+      <thead>
+        <tr>
+          <th scope="column">Planet</th>
+          <th scope="column" class="is-ods-table-num">Radius (km)</th>
+          <th scope="column">Type</th>
+          <th scope="column" class="is-ods-table-date">Perihelion date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row">Jupiter</th>
+          <td class="is-ods-table-num">69,911</td>
+          <td>Gas giant</td>
+          <td class="is-ods-table-date">January 21, 2023</td>
+        </tr>
+        <tr>
+          <th scope="row">Earth</th>
+          <td class="is-ods-table-num">6,371</td>
+          <td>Terrestrial</td>
+          <td class="is-ods-table-date">January 2, 2021</td>
+        </tr>
+        <tr>
+          <th scope="row">Mercury</th>
+          <td class="is-ods-table-num">1,737</td>
+          <td>Terrestrial</td>
+          <td class="is-ods-table-date">&ndash;</td>
+        </tr>
+      </tbody>
+    </table>
+  </figure>
+</form>
+
+<h2>This is the 2nd heading with block</h2>
+
+<form class="ods-form">
+  <fieldset class="ods-fieldset">
+    <input class="ods-checkbox" type="checkbox" name="example-1" id="example-1" value="terms-accepted" checked required>
+    <label class="ods-checkbox--label" for="example-1">Inline label</label>
+  </fieldset>
+</form>
+
+<h3>This is the 3rd heading with block</h3>
+
+<form class="ods-form">
+  <dl class="ods-status">
+    <dt class="ods-status--label">
+      Status label
+    </dt>
+    <dd class="ods-status--value">
+      Neutral descriptor
+    </dd>
+  </dl>
+</form>
+
+<h4>This is the 4th heading with block</h4>
+
+<form class="ods-form">
+  <fieldset class="ods-fieldset">
+    <div class="ods-fieldset--attached">
+      <input type="search" name="example-6" id="example-6" autocomplete="search" spellcheck="false" aria-labelledby="example-6" required="required" class="ods-text-input">
+      <button id="example-6" class="ods-button">Button label</button>
+    </div>
+  </fieldset>
+</form>
+
+<h5>This is the 5th heading with block</h5>
+
+<form class="ods-form">
+  <fieldset class="ods-fieldset">
+    <legend class="ods-input-legend">Field label</legend>
+    <input class="ods-radio" type="radio" name="group-name" id="input-0" value="value-0" required checked>
+    <label class="ods-radio--label" for="input-0">Label 1</label>
+    <input class="ods-radio" type="radio" name="group-name" id="input-1" value="value-1" required>
+    <label class="ods-radio--label" for="input-1">Label 2</label>
+    <input class="ods-radio" type="radio" name="group-name" id="input-2" value="value-2" required>
+    <label class="ods-radio--label" for="input-2">Label 3</label>
+  </fieldset>
+</form>
+
+<h6>This is the 6th heading with block</h6>
+
+<form class="ods-form">
+<p>This is just some copy.</p>
+</form>
